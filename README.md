@@ -1,4 +1,2 @@
-# -demo-class
-this is my first Git Repository.
-<br/>
-Author-Sathi Mondal
+<h1>##Hi, I'm Sathi</h1> </br>
+ElectricL Engineering student at HIT,Haldia
